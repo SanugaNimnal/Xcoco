@@ -1,8 +1,8 @@
 {
-  "name": "Black-Dragon",
+  "name": "Queen Xco",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/nimaofficial/Black-Dragon",
-  "logo": "https://telegra.ph/file/1cc504a3c4a1d49107bfc.jpg",
+  "logo": "https://www.entoin.com/images/cute55.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
