@@ -1,5 +1,5 @@
 {
-  "name": "Xcoco-Bot",
+  "name": "Queen Xco",
   "version": "6.0.0",
   "description": "Automated whatsapp md bot created using nodejs and baileys lib",
   "type": "commonjs",
@@ -17,7 +17,7 @@
     "multi-device",
     "xcoco-bot-inc"
   ],
-  "author": "Sadaru",
+  "author": "Sathviru",
   "license": "AGPL-3",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
