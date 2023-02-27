@@ -23,11 +23,11 @@ global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 //bot bomdy 
 global.ownernomer = "94701416588" //ur number
 global.premium = ['94701416588'] //ur premium number
-global.botname = 'Xcoco' //ur bot name
-global.themeemoji = "♻️" //ur theme emoji
-global.packname = "Sticker By Xcoco" //ur sticker watermark packname
-global.author = "Xcoco" //ur sticker watermark author
-global.wm = "XCOCO BOT INC" //ur watermark
+global.botname = 'Queen Xco' //ur bot name
+global.themeemoji = "❤️" //ur theme emoji
+global.packname = "Sticker By Queen Xco" //ur sticker watermark packname
+global.author = "Queen Xco" //ur sticker watermark author
+global.wm = "Queen XCO" //ur watermark
 
 // Other
 global.sessionName = 'session'
